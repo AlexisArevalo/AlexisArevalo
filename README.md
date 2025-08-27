@@ -8,12 +8,7 @@ Este espacio está dedicado a presentarme, compartir un poco sobre mí y mostrar
 
 Soy Alexis Arevalo, Estudiante de Ingeniería de Sistemas y Computacion de la Universidad Nacional.
 
-## ¿Qué encontrarás aquí?
 
-- Información personal y profesional.
-- Enlaces a mis redes y portafolio.
-- Proyectos destacados o ejemplos de código.
-- Recursos y formas de contacto.
 
 ## Contacto
 
