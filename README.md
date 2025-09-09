@@ -47,9 +47,10 @@
   <br/>
   
   
-  ### 🤝🏻 &nbsp;Connect with Me
+## 📊 GitHub Stats
 
-<p align="center">
-<a href="https://www.linkedin.com/in/sebastian-arevalo-626b87311/"><img src="https://img.shields.io/badge/-Rafael%20LInedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:sebastianlexarevalo@hmai.com"><img src="https://img.shields.io/badge/-sebastianlexarevalo.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexisArevalo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisArevalo&layout=compact&langs_count=8&theme=algolia"/>
+</div>
+
