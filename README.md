@@ -4,14 +4,14 @@
 </p>
 
 
-- 🔭 I’m currently studying Systems and Computing Engineering at the National University of Colombia  
-- 🌱 I’m currently learning GitHub, Oracle, Visual Studio Code, NetBeans, Power Designer, Access, CSS, HTML, Java, Python, SQL, JavaScript  
-- 👯 I’m looking to collaborate on cybersecurity and web development projects  
-- 🤔 I’m looking for help with best practices  
-- 💬 Ask me about databases, queries, and relational algebra  
-- 📫 How to reach me: sebastianlexarevalo@gmail.com  
+- 🔭 I’m currently studying Systems and Computing Engineering at the National University of Colombia.  
+- 🌱 I’m currently learning GitHub, Oracle, Visual Studio Code, NetBeans, Power Designer, Access, CSS, HTML, Java, Python, SQL, JavaScript.  
+- 👯 I’m looking to collaborate on cybersecurity and web development projects.  
+- 🤔 I’m looking for help with best practices.  
+- 💬 Ask me about databases, queries, and relational algebra.  
+- 📫 How to reach me: sebastianlexarevalo@gmail.com.  
 - 😄 Pronouns: he/him  
-- ⚡ Fun fact: I love heavy metal, but I’m also a Mon Laferte fan 🤘🎶  
+- ⚡ Fun fact: I love heavy metal, but I’m also a Mon Laferte fan 🤘🎶. 
 
 
 ### 🛠 &nbsp;Tech Stack
