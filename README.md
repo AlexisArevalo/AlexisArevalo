@@ -41,16 +41,4 @@
 
 
 
-<summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/AlexisArevalo"><img alt="Rafael's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AlexisArevalo&custom_title=Rafael's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-  
-  
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexisArevalo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisArevalo&layout=compact&langs_count=8&theme=algolia"/>
-</div>
 
